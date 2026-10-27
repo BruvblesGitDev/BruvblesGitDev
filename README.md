@@ -6,24 +6,24 @@ I work across both **backend and frontend development**, with a particular focus
 
 Check out my work on Twitter: [Bruvbles](https://x.com/M0NGOLLI).
 
-## My Go-To Libraries & Frameworks
+# My Go-To Libraries & Frameworks:
 
 I work with a variety of libraries for gameplay architecture, UI development, data management, and resource cleanup. I prefer **modular, scalable, and maintainable architectures**.
 
-- **Gameplay Architecture:** [Jecs](https://github.com/Ukendio/jecs), [Planck](https://github.com/YetAnotherClown/planck)
-- **UI Development:** [React-Luau](https://github.com/jsdotlua/react-lua), [Vide](https://github.com/centau/vide), [Charm](https://github.com/littensy/charm)
+- **Gameplay Architecture:** [Jecs](https://github.com/Ukendio/jecs), [Planck](https://github.com/YetAnotherClown/planck), etc.
+- **UI Development:** [React-Luau](https://github.com/jsdotlua/react-lua), [Vide](https://github.com/centau/vide), [Charm](https://github.com/littensy/charm) etc.
+- **Utilities:** [Signal](https://sleitnick.github.io/RbxUtil/api/Signal/), [Scythe](https://github.com/synttx/oss) (data-oriented version of trove/janitor), etc.
 - **Data & Serialization:** [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore), [Scribe](https://github.com/ericplane/Scribe)
-- **Utilities:** [Signal](https://sleitnick.github.io/RbxUtil/api/Signal/), [Scythe](https://github.com/synttx/oss) (data-oriented resource management)
 
 I also develop **custom modular utilities** tailored to specific gameplay and development needs.
 
-## Availability
+# Availability:
 
 - **Working Hours:** 2:00 PM – 8:00 PM SGT (UTC+8)
 - **Availability:** 4–6 hours/day, 25–30 hours/week
 - **Flexibility:** Open to overtime when needed
 
-## How to Reach Me
+# How to Reach Me:
 
 - **Email:** [BruvblesDev@gmail.com](mailto:BruvblesDev@gmail.com)
 - **Discord:** `Bruvbles`
