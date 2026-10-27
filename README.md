@@ -6,6 +6,8 @@ I work across both **backend and frontend development**, with a particular focus
 
 Check out my work on Twitter: [Bruvbles](https://x.com/M0NGOLLI).
 
+Note: Open-Source game & systems soon.. 🥶🥶🥶
+
 ## My Go-To Libraries & Frameworks:
 
 I work with a variety of libraries for gameplay architecture, UI development, data management, and resource cleanup. I prefer **modular, scalable, and maintainable architectures**.
