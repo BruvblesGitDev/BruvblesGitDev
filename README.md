@@ -6,6 +6,7 @@ I work across both **backend and frontend development**, with a particular focus
 
 Checkout my work in twitter; [Bruvbles](https://x.com/M0NGOLLI).
 
+
 ## My goto Libraries & Frameworks:
 
 I'm experienced with a variety of libs for gameplay architecture, UI development, data management, and resource cleanup. **I preferred modular framework**.
@@ -17,9 +18,8 @@ Utilities: [Signal](https://sleitnick.github.io/RbxUtil/api/Signal/), [Scythe](h
 
 # Note: I also make my own custom modular utilities for specific needs on game development. 
 
----
 
-## Availability:- 
+## Availability:
   - **Working Hours:** 2:00 PM – 8:00 PM SGT (UTC+8)
   - **Availability:** 4–6 hours/day, 25–30 hours/week
   - **Flexibility:** Open to overtime when needed.
